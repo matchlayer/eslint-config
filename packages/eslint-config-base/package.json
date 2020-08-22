@@ -1,0 +1,41 @@
+{
+  "name": "@matchlayer/eslint-config-base",
+  "version": "0.0.1",
+  "description": "Matchlayer's ESLint base configuration",
+  "keywords": [
+    "coding-standards",
+    "coding-style",
+    "eslint",
+    "eslint-config",
+    "javascript",
+    "lint",
+    "linter"
+  ],
+  "homepage": "https://github.com/matchlayer/eslint-config",
+  "repository": "https://github.com/matchlayer/eslint-config.git",
+  "license": "MIT",
+  "author": "Matchlayer Team <developers@matchlayer.com> (https://matchlayer.com/developers)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "cjs",
+    "lib"
+  ],
+  "dependencies": {
+    "eslint-plugin-import": "~2.22.0",
+    "eslint-plugin-jsdoc": "~30.2.4"
+  },
+  "devDependencies": {},
+  "peerDependencies": {
+    "eslint": "~7.7.0"
+  },
+  "engines": {
+    "node": "~12.18",
+    "npm": "~6.14"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
