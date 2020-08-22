@@ -10,6 +10,7 @@
     "release": "lerna publish"
   },
   "devDependencies": {
+    "@matchlayer/eslint-config-base": "~0.0.3",
     "eslint": "~7.7.0",
     "lerna": "~3.22.1"
   }
