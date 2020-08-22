@@ -1,6 +1,6 @@
 {
   "name": "@matchlayer/eslint-config-base",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Matchlayer's ESLint base configuration",
   "keywords": [
     "coding-standards",
