@@ -2,5 +2,11 @@
   "name": "root",
   "private": true,
   "repository": "https://github.com/matchlayer/eslint-config.git",
-  "author": "Matchlayer Team <developers@matchlayer.com> (https://matchlayer.com/developers)"
+  "author": "Matchlayer Team <developers@matchlayer.com> (https://matchlayer.com/developers)",
+  "scripts": {
+    "postinstall": "lerna bootstrap"
+  },
+  "devDependencies": {
+    "lerna": "~3.22.1"
+  }
 }
