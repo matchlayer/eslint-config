@@ -4,9 +4,11 @@
   "repository": "https://github.com/matchlayer/eslint-config.git",
   "author": "Matchlayer Team <developers@matchlayer.com> (https://matchlayer.com/developers)",
   "scripts": {
-    "postinstall": "lerna bootstrap"
+    "postinstall": "lerna bootstrap",
+    "lint": "eslint ./"
   },
   "devDependencies": {
+    "eslint": "~7.7.0",
     "lerna": "~3.22.1"
   }
 }
