@@ -1,6 +1,6 @@
 {
   "name": "@matchlayer/eslint-config-base",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Matchlayer's ESLint base configuration",
   "keywords": [
     "coding-standards",
@@ -27,7 +27,6 @@
     "eslint-plugin-import": "~2.22.0",
     "eslint-plugin-jsdoc": "~30.2.4"
   },
-  "devDependencies": {},
   "peerDependencies": {
     "eslint": "~7.7.0"
   },
