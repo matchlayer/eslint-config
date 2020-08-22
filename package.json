@@ -5,7 +5,9 @@
   "author": "Matchlayer Team <developers@matchlayer.com> (https://matchlayer.com/developers)",
   "scripts": {
     "postinstall": "lerna bootstrap",
-    "lint": "eslint ./"
+    "lint": "eslint ./",
+    "prerelease": "npm run lint",
+    "release": "lerna publish"
   },
   "devDependencies": {
     "eslint": "~7.7.0",
