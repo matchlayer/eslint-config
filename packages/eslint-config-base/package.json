@@ -21,6 +21,7 @@
   },
   "files": [
     "cjs",
+    "esm",
     "lib"
   ],
   "dependencies": {
