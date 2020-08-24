@@ -1,3 +1,3 @@
 'use strict';
 
-module.exports = require('./preset/es2020');
+module.exports = require('./lib/preset/es2020');
