@@ -11,5 +11,9 @@
     "@matchlayer/eslint-config-base": "~0.0.3",
     "eslint": "~7.7.0",
     "lerna": "~3.22.1"
+  },
+  "engines": {
+    "node": "~12.18",
+    "npm": "~6.14"
   }
 }
