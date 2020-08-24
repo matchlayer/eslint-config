@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.5](https://github.com/matchlayer/eslint-config/compare/@matchlayer/eslint-config-base@0.0.4...@matchlayer/eslint-config-base@0.0.5) (2020-08-24)
+
+**Note:** Version bump only for package @matchlayer/eslint-config-base
+
+
+
+
+
 ## [0.0.4](https://github.com/matchlayer/eslint-config/compare/@matchlayer/eslint-config-base@0.0.3...@matchlayer/eslint-config-base@0.0.4) (2020-08-24)
 
 
